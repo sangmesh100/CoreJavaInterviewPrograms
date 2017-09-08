@@ -32,3 +32,6 @@ public class ArmstrongNumber {
 		}
 	}
 }
+/*
+OUTPUT: 153 is an ArmstrongNumber
+*/
